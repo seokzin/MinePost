@@ -39,7 +39,13 @@ https://capstone.uos.ac.kr/cdc/index.php/%EB%AF%B8%EB%84%A4%EB%A5%B4%EB%B0%94
 * Django==3.0.7
 * minegpt2
 
+### Demo
+서버 유지비용 문제로 배포 중지 상태입니다.
+
+## Screen Shots
+
 ### 1. Main Page
+
 ![image](https://user-images.githubusercontent.com/43740455/122677186-32e94e00-d21c-11eb-8417-cfadd150a226.png)
 
 1. 헤드라인 뉴스
@@ -50,7 +56,9 @@ https://capstone.uos.ac.kr/cdc/index.php/%EB%AF%B8%EB%84%A4%EB%A5%B4%EB%B0%94
     - 스크랩 기반 순위
     - 우측 사이드바 위치
 
+
 ### 2. Writing Page
+
 ![image](https://user-images.githubusercontent.com/43740455/122677267-9c695c80-d21c-11eb-9277-fefe227d35e4.png)
 ![image](https://user-images.githubusercontent.com/43740455/122677273-a1c6a700-d21c-11eb-97a2-eb56411e2e37.png)
 
@@ -63,7 +71,9 @@ https://capstone.uos.ac.kr/cdc/index.php/%EB%AF%B8%EB%84%A4%EB%A5%B4%EB%B0%94
 4. 이미지 추천 (핵심 4)
     - 구글 이미지 크롤링을 통해 제공
 
+
 ### 3. Category Page (IT/Science)
+
 ![image](https://user-images.githubusercontent.com/43740455/122677356-f9fda900-d21c-11eb-98da-1bf0fc819881.png)
 
 1. 핫이슈
@@ -71,14 +81,18 @@ https://capstone.uos.ac.kr/cdc/index.php/%EB%AF%B8%EB%84%A4%EB%A5%B4%EB%B0%94
 2. 뉴스 리스트
     - 10개 단위 페이지네이션
 
+
 ### 4. Scrap Page
+
 ![image](https://user-images.githubusercontent.com/43740455/122677401-11d52d00-d21d-11eb-9abe-cb9eb2b6f83d.png)
 
 1. 스크랩 글 조회
 2. 스크랩 삭제
     - 체크박스 통한 복수 삭제 가능
 
+
 ### 5. Article Page
+
 ![image](https://user-images.githubusercontent.com/43740455/122677443-33ceaf80-d21d-11eb-89fc-806a1b4de2b5.png)
 
 1. 요약 봇 (핵심 5)
