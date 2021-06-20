@@ -1,5 +1,5 @@
-# MINE POST (CSUOS capstone-project)
-Django 기반 GPT-2를 활용한 인공지능 뉴스 사이트
+0# MINE POST (CSUOS capstone-project)
+GPT-2의 보조를 통한 인공지능 뉴스 사이트
 
 ## Services
 ### 1. AI Writing
@@ -14,7 +14,11 @@ Django 기반 GPT-2를 활용한 인공지능 뉴스 사이트
   - TextRank를 통한 핵심 문장 세줄 요약 (패키지 문제로 개선 중)
 
 ## Link
-https://capstone.uos.ac.kr/cdc/index.php/%EB%AF%B8%EB%84%A4%EB%A5%B4%EB%B0%94
+1. Wiki-
+    - [UOS Capstone Wiki](https://capstone.uos.ac.kr/cdc/index.php/%EB%AF%B8%EB%84%A4%EB%A5%B4%EB%B0%94)
+
+2. Demo
+    - 서버 유지비용 문제로 배포 중지 상태입니다.
 
 ## Structure
 ![image](https://user-images.githubusercontent.com/43740455/122677094-b6ef0600-d21b-11eb-80a6-c58afaf40aa1.png)
@@ -38,9 +42,6 @@ https://capstone.uos.ac.kr/cdc/index.php/%EB%AF%B8%EB%84%A4%EB%A5%B4%EB%B0%94
 * selenium==3.141.0
 * Django==3.0.7
 * minegpt2
-
-### Demo
-서버 유지비용 문제로 배포 중지 상태입니다.
 
 ## Screen Shots
 
