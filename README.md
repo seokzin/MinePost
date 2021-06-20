@@ -1,4 +1,4 @@
-0# MINE POST (CSUOS capstone-project)
+# MINE POST (CSUOS capstone-project)
 GPT-2의 보조를 통한 인공지능 뉴스 사이트
 
 ## Services
