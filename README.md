@@ -14,7 +14,7 @@ GPT-2의 보조를 통한 인공지능 뉴스 사이트
   - TextRank를 통한 핵심 문장 세줄 요약 (패키지 문제로 개선 중)
 
 ## Link
-1. Wiki-
+1. Wiki
     - [UOS Capstone Wiki](https://capstone.uos.ac.kr/cdc/index.php/%EB%AF%B8%EB%84%A4%EB%A5%B4%EB%B0%94)
 
 2. Demo
